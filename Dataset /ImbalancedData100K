@@ -1,9 +1,1 @@
-# 🧠 Unsafe Prompt Aggregation Dataset
 
-This repository contains documentation and metadata for the **Unsafe Prompt Aggregation Dataset**, curated by **Danah Alsarrani**.
-
-The dataset is hosted on **Hugging Face** for easy access and download:
-
-[![Download on Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/dralsarrani/Prompt-Aggregation-Dataset-Custom-Dataset)
-
----

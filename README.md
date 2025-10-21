@@ -7,7 +7,7 @@ This dataset is a curated collection of unsafe, adversarial, and sensitive promp
 ##  Structure  
 The dataset includes:  
 - **Prompt text**: Raw user inputs or adversarial instructions.   
-- **Safety labels**: Optional annotations for unsafe/safe/sensitive classification.  
+- **Safety labels**: Annotations for unsafe/safe/sensitive classification.  
 
 ##  Download the Dataset
 

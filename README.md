@@ -13,9 +13,11 @@ The dataset includes:
 
 The full dataset is hosted on Hugging Face for easy access and download:
 
-🔗 [Click here to view and download on Hugging Face](https://huggingface.co/datasets/dralsarrani/Prompt-Aggregation-Dataset-Custom-Dataset)
-
-[![Download on Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/dralsarrani/Prompt-Aggregation-Dataset-Custom-Dataset)
+🔗 Click here to view and download on Hugging Face
+- with synthetic data
+[![Download on Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/dralsarrani/prompt_safety_with_synthetic)
+- without synthetic data
+[![Download on Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/dralsarrani/prompt_safety)
 
 
 ##  Sources  
